@@ -7,8 +7,8 @@ echo "--------------------------------------------------------------------------
 
 
 echo "--------------------------- BASH SHELL TITAN ---------------------------"
-# Fixed hash | laodau
-hash_value="60CA5D2F-585D-458F-BF73-C297B63BDE9A"
+# Fixed hash | Malik
+hash_value="38EE8F06-74F4-48BF-9A64-0DF3D0889B67"
 
 cpu_core=1
 memory_size=4
